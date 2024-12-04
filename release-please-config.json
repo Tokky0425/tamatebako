@@ -1,0 +1,19 @@
+{
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
+  "bootstrap-sha": "4c820890db1609cc7f61a688d711432b09c6c6b5",
+  "changelog-path": "CHANGELOG.md",
+  "release-type": "node",
+  "bump-minor-pre-major": false,
+  "bump-patch-for-minor-pre-major": false,
+  "draft": false,
+  "prerelease": false,
+  "packages": {
+    "packages/create-lint-set": {},
+    "packages/next-auth": {},
+    "packages/prettier-config-smarthr": {},
+    "packages/stylelint-config-smarthr": {},
+    "packages/use-bulk-check": {},
+    "packages/use-virtual-scroll": {},
+    "packages/wareki": {}
+  }
+}
