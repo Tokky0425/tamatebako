@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.0](https://github.com/Tokky0425/tamatebako/compare/create-lint-set-v1.1.5...create-lint-set-v2.0.0) (2024-12-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* node のサポートバージョンを20に変更
+
+### Miscellaneous Chores
+
+* node のサポートバージョンを20に変更 ([c0aeb7b](https://github.com/Tokky0425/tamatebako/commit/c0aeb7bfeeae423e6d8badc2e0c2623823dba835))
+
 ## [1.1.5](https://github.com/kufu/tamatebako/compare/@smarthr/create-lint-set@1.1.4...@smarthr/create-lint-set@1.1.5) (2024-11-29)
 
 **Note:** Version bump only for package @smarthr/create-lint-set
