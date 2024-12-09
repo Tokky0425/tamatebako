@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.0](https://github.com/Tokky0425/tamatebako/compare/prettier-config-smarthr-v1.0.1...prettier-config-smarthr-v2.0.0) (2024-12-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* semi を true に
+
+### Bug Fixes
+
+* semi を true に ([12ff34e](https://github.com/Tokky0425/tamatebako/commit/12ff34e15c28b53c42233711a71cf1342be16b2a))
+
 ## 1.0.1 (2024-11-29)
 
 **Note:** Version bump only for package prettier-config-smarthr

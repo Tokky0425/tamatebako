@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.1](https://github.com/Tokky0425/tamatebako/compare/create-lint-set-v2.0.0...create-lint-set-v2.0.1) (2024-12-09)
+
+
+### Bug Fixes
+
+* メッセージを修正 ([801bd6a](https://github.com/Tokky0425/tamatebako/commit/801bd6a5a80904dff8e6d756a53c5ed15dbf9388))
+
 ## [2.0.0](https://github.com/Tokky0425/tamatebako/compare/create-lint-set-v1.1.5...create-lint-set-v2.0.0) (2024-12-05)
 
 
