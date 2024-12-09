@@ -1,12 +1,8 @@
 {
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
   "last-release-sha": "4c820890db1609cc7f61a688d711432b09c6c6b5",
-  "changelog-path": "CHANGELOG.md",
-  "release-type": "node",
-  "bump-minor-pre-major": false,
-  "bump-patch-for-minor-pre-major": false,
-  "draft": false,
-  "prerelease": false,
+  "bump-minor-pre-major": true,
+  "bump-patch-for-minor-pre-major": true,
   "packages": {
     "packages/create-lint-set": {},
     "packages/next-auth": {},
