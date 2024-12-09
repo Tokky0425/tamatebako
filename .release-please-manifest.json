@@ -1,7 +1,7 @@
 {
-  "packages/create-lint-set": "2.0.0",
+  "packages/create-lint-set": "2.0.1",
   "packages/next-auth": "0.1.5",
-  "packages/prettier-config-smarthr": "1.0.1",
+  "packages/prettier-config-smarthr": "2.0.0",
   "packages/stylelint-config-smarthr": "3.0.2",
   "packages/use-bulk-check": "1.0.7",
   "packages/use-virtual-scroll": "1.1.6",
